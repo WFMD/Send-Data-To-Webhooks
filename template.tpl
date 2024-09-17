@@ -9,6 +9,11 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
+  "displayName": "Send Data To Webhooks",
+  "categories": ["MARKETING", "ADVERTISING","UTILITY"],
+}
+
+{
   "type": "TAG",
   "id": "cvt_temp_public_id",
   "version": 1,
