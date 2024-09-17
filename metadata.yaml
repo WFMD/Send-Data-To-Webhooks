@@ -1,7 +1,5 @@
-___INFO___
-
-{
-  "displayName": "Send Data To Webhooks",
-  "categories": ["MARKETING", "ADVERTISING","UTILITY"],
-  // additional template properties, etc...
-}
+homepage: "https://willyfernandes.com.br"
+documentation: "https://github.com/WFMD/Send-Data-To-Webhooks/"
+versions:
+  - sha: 691883831a51ffda9b8c9d5736af579d6e8cee6a
+    changeNotes: Initial release.
