@@ -1,5 +1,5 @@
 homepage: "https://willyfernandes.com.br"
 documentation: "https://github.com/WFMD/Send-Data-To-Webhooks/"
 versions:
-  - sha: 691883831a51ffda9b8c9d5736af579d6e8cee6a
+  - sha: 6d0eb8c2c2e571d42c459c1654ff5eaa4e77fa7a
     changeNotes: Initial release.
